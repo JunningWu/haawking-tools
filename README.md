@@ -11,3 +11,5 @@ Compile & run
 # windows platform
 can_text.exe CANBOOT.bin can.text
 ```
+
+[DSC28034 CAN Boot Process Demo](https://www.bilibili.com/video/BV1ky4y1y7K2/)
